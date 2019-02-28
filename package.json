@@ -1,0 +1,25 @@
+{
+  "name": "jquerylearning",
+  "version": "1.0.0",
+  "description": "Learn jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEDAS/jQueryLearning.git"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Hades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEDAS/jQueryLearning/issues"
+  },
+  "homepage": "https://github.com/HEDAS/jQueryLearning#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}

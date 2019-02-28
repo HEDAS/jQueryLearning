@@ -1,17 +1,17 @@
-# Learn XXX
+# Learn jQuery
 
 ## Overview
 
-Why and How to learn XXX? The reason is ...
+探索jQuery的奥秘，慢慢去阅读jQuery的源码，探索其中的实现。
 
 ## Plan
 
-Make a plan at first time. Usually check this Plan.
+15天阅读完书籍
 
 ## Target
 
-How to Use XXX. Do a simple thing.
+做一个bug收集网站
 
 ## Summary
 
-Summarize my work everyday.
+Day1. 调试Webstorm开发环境
